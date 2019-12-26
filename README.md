@@ -1,1 +1,3 @@
-# FullCICDJavaProject
+# maven-project
+
+Simple Maven Project
