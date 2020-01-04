@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-<h3> One last test </h3>
+<h1>  Hello DevOps World </h1>
+<p> it is my first web app with java </p>
