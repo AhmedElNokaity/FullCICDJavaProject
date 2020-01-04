@@ -2,3 +2,5 @@
 <h2> it is working </h2>
 <p> it is my second web app with java </p>
 <p> Jenkins is a magic </p>
+<p> final test for simple CICD </p>
+
